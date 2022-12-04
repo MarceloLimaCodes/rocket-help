@@ -1,2 +1,2 @@
 # rocket-help
-Aplicativo
+Aplicativo feito com React Native
